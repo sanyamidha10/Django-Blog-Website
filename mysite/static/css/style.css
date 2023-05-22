@@ -1,7 +1,18 @@
 
 body{
-    background-color: rgb(200, 120, 21);
+    background-color: black;
 }
 h1{
-    color: aqua;
+    color: rgb(129, 127, 255);
+}
+.table{
+    color: rgb(255, 255, 255);
+}
+thead{
+    color: rgb(214, 145, 241);
+}
+
+a{
+    /* text-decoration: none; */
+    color: rgb(251, 156, 183);
 }
